@@ -105,7 +105,6 @@ static void print_cipher_type(int pairwise_cipher, int group_cipher)
         break;
     }
 }
-
 /* Initialize Wi-Fi as sta and set scan method */
 static void wifi_scan(void)
 {
